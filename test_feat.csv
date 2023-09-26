@@ -1,0 +1,9 @@
+student_id,prompt_id,text,content,wording,prompt_question,prompt_title,prompt_text,has_almost_duplicate,num_unique_words,num_words,num_sentences,isupper,mean_num_words,mean_num_unique_words,num_slash,paragraph_count,upper_count,syntax_count,is_end_with_dot,stopwords_rel,lcsstr,automated_readability_index,coleman_liau_index,smog_index,dale_chall_readability_score,linsear_write_formula,gunning_fog,text_standard_float,spache_readability,rix,lix
+000000ffffff,abc123,Example text 1,,,Summarize...,Example Title 1,"Heading
+Text...",1.0,3,3,1,True,3.0,3.0,0,0,0.0,0,0,0.0,1,-1.2,-2.38,0.0,19.58,1.5,14.53,6.0,4.128666666666666,1.0,36.33
+111111eeeeee,def789,Example text 2,,,Summarize...,Example Title 2,"Heading
+Text...",1.0,3,3,1,True,3.0,3.0,0,0,0.0,0,0,0.0,1,-1.2,-2.38,0.0,19.58,1.5,14.53,6.0,4.128666666666666,1.0,36.33
+222222cccccc,abc123,Example text 3,,,Summarize...,Example Title 1,"Heading
+Text...",1.0,3,3,1,True,3.0,3.0,0,0,0.0,0,0,0.0,1,-1.2,-2.38,0.0,19.58,1.5,14.53,6.0,4.128666666666666,1.0,36.33
+333333dddddd,def789,Example text 4,,,Summarize...,Example Title 2,"Heading
+Text...",1.0,3,3,1,True,3.0,3.0,0,0,0.0,0,0,0.0,1,-1.2,-2.38,0.0,19.58,1.5,14.53,6.0,4.128666666666666,1.0,36.33
